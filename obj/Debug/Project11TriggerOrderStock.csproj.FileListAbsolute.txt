@@ -1,0 +1,12 @@
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\Project11TriggerOrderStock.exe.config
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\Project11TriggerOrderStock.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\Project11TriggerOrderStock.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\obj\Debug\Project11TriggerOrderStock.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\obj\Debug\Project11TriggerOrderStock.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\obj\Debug\Project11TriggerOrderStock.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\obj\Debug\Project11TriggerOrderStock.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\EntityFramework.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\EntityFramework.xml
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project11TriggerOrderStock\obj\Debug\Project11TriggerOrderStock.csproj.CopyComplete
